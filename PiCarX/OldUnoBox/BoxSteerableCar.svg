@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg259"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="BoxSteerableCar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview261"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0255231"
+     inkscape:cx="244.26559"
+     inkscape:cy="371.03017"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs256" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;fill-opacity:1;stroke-opacity:1"
+       id="rect432"
+       width="165"
+       height="55"
+       x="10.05"
+       y="10.05" />
+    <path
+       id="rect432-7"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-opacity:1"
+       d="m 5.049821,5.049821 v 7.450191 H 8 v 9.999907 H 5.049821 v 9.999906 H 8 V 42.500248 H 5.049821 v 9.999907 H 8 v 9.999906 H 5.049821 v 7.549927 h 12.450403 v -3.049943 h 9.999906 v 3.049943 h 9.999907 v -3.049943 h 9.999906 v 3.049943 h 9.999906 v -3.049943 h 9.999907 v 3.049943 h 10.000423 v -3.049943 h 9.999906 v 3.049943 h 9.999907 v -3.049943 h 9.999908 v 3.049943 h 9.9999 v -3.049943 h 10.00043 v 3.049943 h 9.9999 v -3.049943 h 9.99991 v 3.049943 h 9.99991 v -3.049943 h 9.9999 v 3.049943 h 12.55014 v -7.549927 h -3.04994 v -9.999906 h 3.04994 v -9.999907 h -3.04994 V 32.499825 h 3.04994 v -9.999906 h -3.04994 v -9.999907 h 3.04994 V 5.049821 h -12.55014 v 2.9502237 h -9.9999 V 5.049821 h -9.99991 v 2.9502237 h -9.99991 V 5.049821 h -9.9999 V 8.0000447 H 117.4998 V 5.049821 h -9.9999 V 8.0000447 H 97.499992 V 5.049821 H 87.500085 V 8.0000447 H 77.500179 V 5.049821 H 67.499756 V 8.0000447 H 57.499849 V 5.049821 H 47.499943 V 8.0000447 H 37.500037 V 5.049821 H 27.50013 V 7.9999552 H 17.500224 V 5.049821 Z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="rect5446"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-opacity:1"
+       d="M 8.0000285 80.049894 L 8.0000285 87.500085 L 5.049821 87.500085 L 5.049821 97.499992 L 8.0000285 97.499992 L 8.0000285 107.4999 L 5.049821 107.4999 L 5.049821 117.4998 L 8.0000285 117.4998 L 8.0000285 127.50023 L 5.049821 127.50023 L 5.049821 137.50013 L 8.0000285 137.50013 L 8.0000285 145.05006 L 10.500134 145.05006 L 10.500134 142.00012 L 20.500041 142.00012 L 20.500041 145.05006 L 30.499947 145.05006 L 30.499947 142.00012 L 40.499854 142.00012 L 40.499854 145.05006 L 42.999959 145.05006 L 42.999959 137.50013 L 46.049902 137.50013 L 46.049902 127.50023 L 42.999959 127.50023 L 42.999959 117.4998 L 46.049902 117.4998 L 46.049902 107.4999 L 42.999959 107.4999 L 42.999959 97.499992 L 46.049902 97.499992 L 46.049902 87.500085 L 42.999959 87.500085 L 42.999959 80.049894 L 40.499854 80.049894 L 40.499854 83.000102 L 30.499947 83.000102 L 30.499947 80.049894 L 20.500041 80.049894 L 20.500041 83.000102 L 10.500134 83.000102 L 10.500134 80.049894 L 8.0000285 80.049894 z " />
+    <path
+       id="rect6346"
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linejoin:bevel;stroke-opacity:1"
+       d="M 102.5002 80.049894 L 102.5002 83.000102 L 93.000008 83.000102 L 93.000008 85.500208 L 90.049801 85.500208 L 90.049801 95.500114 L 93.000008 95.500114 L 93.000008 105.50002 L 90.049801 105.50002 L 90.049801 115.49993 L 93.000008 115.49993 L 93.000008 118.00003 L 102.5002 118.00003 L 102.5002 121.04998 L 112.50011 121.04998 L 112.50011 118.00003 L 122.50002 118.00003 L 122.50002 121.04998 L 132.4498 121.04998 L 132.4498 80.049894 L 122.50002 80.049894 L 122.50002 83.000102 L 112.50011 83.000102 L 112.50011 80.049894 L 102.5002 80.049894 z " />
+  </g>
+</svg>
