@@ -1,4 +1,4 @@
 *.stl
 *.FCStd1
-LinesPrintTemplate/*.pdf
+*.pdf
 *.pdf_tex
