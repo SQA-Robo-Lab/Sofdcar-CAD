@@ -2,3 +2,5 @@
 *.FCStd1
 *.pdf
 *.pdf_tex
+
+!Landscape/Streckenelemente/*.stl
