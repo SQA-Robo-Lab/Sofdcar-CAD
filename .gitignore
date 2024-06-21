@@ -1,6 +1,17 @@
+# files exported from CAD
 *.stl
-*.FCStd1
 *.pdf
 *.pdf_tex
+
+# FreeCAD working copies and backups
+*.FCStd1
+*.FCBak
+
+# KiCAD lockfile and backups
+*.lck
+*.zip
+
+# Sliced gcode for 3d printer
+*.gcode
 
 !Landscape/Streckenelemente/*.stl
