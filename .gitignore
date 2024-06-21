@@ -14,4 +14,6 @@
 # Sliced gcode for 3d printer
 *.gcode
 
+# Special cases
+## 3d models from orig project
 !Landscape/Streckenelemente/*.stl
